@@ -1,0 +1,172 @@
+.main__div{
+    display: flex;
+    margin-left:100px;
+}
+ .signup{
+    width:100%;
+    height:auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    
+  
+    }
+    .create__account{
+        font-size: 20px;
+        margin-left: 20px;
+        margin-top: 30px;
+        font-weight: 500;   
+        text-transform: capitalize;
+    
+    }
+    .cards__pay > h4{
+        font-size: 15px;
+        margin-left: 70px;
+        margin-top: 20px;
+        font-weight: 400;
+    }
+
+    .email > .emailadd{
+        font-size: 10px;
+       display: flex;
+       align-items: flex-start;
+       margin-left: 40px;
+       margin-top: 20px;
+       text-transform: uppercase;
+    }
+    .input1{
+        width:295px;
+        height: 40px;
+        margin-left: 25px;
+        border-radius: 5px;
+        border: 1px solid grey;
+    }
+    .password{
+        display:flex;
+        flex-direction: column;
+        
+    
+    }
+    .pass__word{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+
+    .pass{
+        font-size: 10px;
+        margin-left: 40px;
+       margin-top: 25px;
+       text-transform: uppercase;
+    }
+    .input2{
+        width:295px;
+        height: 40px;
+        margin-left: 25px;
+        border-radius: 5px;
+        border: 1px solid grey;
+    }
+    .checkbox{
+        display:flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 25px;
+        margin-left: 25px;
+    }
+   
+    .checkbox > h6 {
+       margin-left: 15px;
+       margin-top: 6px;
+       font-size: 12px;
+      color: gray;
+    }
+    .card__details{
+        display:flex;
+        
+    }
+
+.card__details1{
+    display:flex;
+    flex-direction: column;
+}
+.input3{
+    width:135px;
+    height: 40px;
+    margin-left: 25px;
+    margin-top: 5px;
+    border-radius: 5px;
+    border: 1px solid grey;
+}
+.pass3{
+    font-size: 10px;
+    /* margin-left: 20px; */
+   margin-top: 25px;
+   text-transform: uppercase;
+}
+
+.btn1{
+    width: 305px;
+    height: 60px;
+    margin-top: 30px;
+    margin-left: 20px;
+    text-transform: capitalize;
+    font-size: 20px;
+    font-family: 300;
+    
+}
+
+.order__summary{
+
+    margin-top: 5px;
+    margin-left: -400px;
+}
+
+.order1{
+font-size: 18px;
+margin-top: 30px;
+
+}
+
+.subscription1{
+    font-size: 10px;
+    margin-top: 20px;
+    font-weight: 300;
+}
+.hr1{
+    width: 180px;
+    
+}
+.price{
+    margin-left: 40px;
+}
+.renewal1{
+    font-size: 12px;
+    margin-top: 20px;
+    font-weight: 400;
+}
+.renewal2{
+    font-size: 10px;
+    margin-top: 20px;
+    font-weight: 300;
+    margin-top: -1px;
+    
+}
+.price1{
+    margin-left: 100px;
+}
+
+.price2{
+    margin-left: 145px;
+}
+.price3{
+    margin-left: 85px;
+}
+
+.btn1{
+    border: none;
+    background-color: lightblue;
+    height: 30px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
